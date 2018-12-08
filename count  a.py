@@ -1,4 +1,4 @@
-sum = 0
+sum = 0# считает количество букв в строке
 letter = input("enter letter:")
 line = input("Enter the line:")
 for i in range(len(line)):
